@@ -1,3 +1,3 @@
-# web
+# Password generator
 Web-basierte Anwendungsentwicklung
 
