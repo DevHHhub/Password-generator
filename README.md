@@ -1,3 +1,3 @@
 # Password-generator
-Web-basierter Password generator
+Web-based password generator
 
